@@ -1,5 +1,5 @@
 IRIS CHAIR + WOOFER,online,1.00.04,https://raw.githubusercontent.com/Adev47/IRIS_ML_V4/main/uploads/beta.exe
 IRIS CHAIR + WOOFER V2,updating,1.00.14,https://raw.githubusercontent.com/Adev47/IRIS_ML_V4/main/uploads/MWIII_4.exe
-IRIS UA + WOOFER V3,online,1.00.18,https://raw.githubusercontent.com/Adev47/IRIS_ML_V4/main/uploads/MWIII_4.exe
+IRIS UA + WOOFER V3,updating,1.00.18,https://raw.githubusercontent.com/Adev47/IRIS_ML_V4/main/uploads/MWIII_4.exe
 IRIS AIO + WOOFER,updating,1.00.03,https://raw.githubusercontent.com/Adev47/LOADERS/main/uploads/MWIII_IRIS_AIO_V3.5.exe
 IRIS PRIVACY PROTECTOR,online,1.00.03,https://raw.githubusercontent.com/Adev47/LOADERS/main/uploads/iriscorp_protected.exe
