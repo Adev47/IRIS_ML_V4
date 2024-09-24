@@ -1,0 +1,13 @@
+[design]
+highlight_color = #FF0000
+loader_box_color = #070707
+main_text_color = #ededed
+main_widgets_color = #050505
+
+[links]
+discord_link = https://discord.gg/iriscorp
+guide_link = https://iris-corporation.gitbook.io/guide
+website_link = https://iris-corp.mysellix.io/
+
+[rounded_corners]
+main_widgets = 12
