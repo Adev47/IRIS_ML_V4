@@ -17,4 +17,4 @@ RUST,1.00.1,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/m
 APEX,1.00.1,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/default_category_wallp.png
 HLL,1.00.1,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/default_category_wallp.png
 DAYLIGHT,1.00.1,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/default_category_wallp.png
-PC,1.00.1,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/PC_ML_CATEGORIES.png
+PC,1.00.2,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/PC_ML_CATEGORIES.png
