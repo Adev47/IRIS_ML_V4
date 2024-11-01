@@ -6,3 +6,4 @@ IRIS PRIVACY PROTECTOR,online,1.00.04,https://raw.githubusercontent.com/Adev47/L
 INFERNO CHAIR + WOOFER,updating,1.00.02,https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/INFERNO_MW3.exe
 MW3.BO6,online,1.00.01,https://raw.githubusercontent.com/Adev47/IRIS_ML_V4/main/uploads/PG1022.exe
 BO6 EXTERNAL PROGRESS,online,1.00.01,https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/PG1027.exe
+BO6 EXTERNAL LDV2,online,1.00.01,https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/LD1027.exe
