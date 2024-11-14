@@ -4,4 +4,4 @@ UA + WOOFER,updating,1.00.20,https://raw.githubusercontent.com/avod245/118393896
 IRIS PRIVACY PROTECTOR,online,1.00.04,https://raw.githubusercontent.com/Adev47/LOADERS/main/uploads/iriscorp_protected.exe
 INFERNO CHAIR + WOOFER,updating,1.00.02,https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/INFERNO_MW3.exe
 BO6 EXTERNAL PROGRESS,updating,1.00.01,https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/PG1027.exe
-BO6 EXTERNAL LDV2,online,1.00.01,https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/LD1027.exe
+BO6 EXTERNAL LDV2,updating,1.00.01,https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/LD1027.exe
