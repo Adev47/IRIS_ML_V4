@@ -1,5 +1,5 @@
 BO6 SILENT CHAIR,updating,1.00.02,https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/blops_1.exe
-BO6 LOUD CHAIR,updating,1.00.01,https://cdn.discordapp.com/attachments/1295859743960727572/1298194884884434995/ldr_km8RW3wI.exe?ex=671d4af3&is=671bf973&hm=c4df4580443113b6dc6e38bd6248e10e72c145e70a581a7f8f31b20a5bf84239&
+BO6 LOUD CHAIR,online,1.00.01,https://cdn.discordapp.com/attachments/1295859743960727572/1298194884884434995/ldr_km8RW3wI.exe?ex=671d4af3&is=671bf973&hm=c4df4580443113b6dc6e38bd6248e10e72c145e70a581a7f8f31b20a5bf84239&
 BO6 INFERNO CHAIR,updating,1.00.01,https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/BO6_MAIN.exe
 BO6 UNLOCK + WOOFER,updating,1.00.02,https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/UA.exe
 BO6 EXTERNAL PROGRESS,updating,1.00.01,https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/PG1027.exe
