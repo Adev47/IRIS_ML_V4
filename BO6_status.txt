@@ -3,4 +3,4 @@ BO6 LOUD CHAIR,online,1.00.01,https://cdn.discordapp.com/attachments/12958597439
 BO6 INFERNO CHAIR,online,1.00.01,https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/BO6_MAIN.exe
 BO6 UNLOCK + WOOFER,online,1.00.02,https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/UA.exe
 BO6 EXTERNAL PROGRESS,online,1.00.01,https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/PG1027.exe
-BO6 EXTERNAL LDV2,updating,1.00.01,https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/LD1027.exe
+BO6 EXTERNAL LDV2,online,1.00.01,https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/LD1027.exe
