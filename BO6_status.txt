@@ -2,6 +2,6 @@ BO6 SILENT CHAIR,online,1.00.03,https://raw.githubusercontent.com/Adev47/IRIS_ML
 BO6 LOUD CHAIR,online,1.00.02,https://f003.backblazeb2.com/file/cloud-bot/loaders/ldr_lslyiyT.exe
 BO6 INFERNO CHAIR,online,1.00.02,https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/BO6_LDR_1.exe
 BO6 UNLOCK + WOOFER,online,1.00.02,https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/UA.exe
-BO6 EXTERNAL PROGRESS,online,1.00.03,https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/Auth_PG_.exe
+BO6 EXTERNAL PROGRESS,online,1.00.04,https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/PROGRESS.exe
 BO6 EXTERNAL LDV2,online,1.00.02,https://raw.githubusercontent.com/avod245/1314418844072153158_cloud/main/LD1027.exe
 BO6 OMBRA CHAIR,online,1.00.01,https://f003.backblazeb2.com/file/cloud-bot/loaders/ldr_lslyiyT.exe
